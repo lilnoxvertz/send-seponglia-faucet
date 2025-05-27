@@ -1,0 +1,19 @@
+{
+  "name": "seponglia",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "x",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.5.0",
+    "ethers": "^6.14.3",
+    "moment-timezone": "^0.6.0"
+  }
+}
