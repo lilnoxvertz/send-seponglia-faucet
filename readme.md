@@ -16,7 +16,7 @@
 
 4. set sepolia rpc on .env (you can get it from alchemy)
    ```bash
-   sepoliaRpc=yourRpcKeyHere
+   sepoliaRpc=your sepolia rpc link here
    ```
 
 ## RUNNING THE BOT
